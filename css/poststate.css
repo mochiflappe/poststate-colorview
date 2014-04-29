@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+/* 非公開 */
+.status-private {
+  background-color: #ffb7ab !important;
+}
+
+/* 下書き */
+.status-draft {
+  background-color: #ffe6a1 !important;
+}
+
+/* レビュー待ち */
+.status-pending {
+  background-color: #ffe6a1 !important;
+}
