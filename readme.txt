@@ -1,10 +1,12 @@
 === Post State Color View ===
 Contributors: mochi_Flappe
+Donate link:
 Tags: Post,post,stats,Japanese
 Requires at least: 3.8-RC2
 Tested up to: 3.8
-Stable tag: 0.1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 color-coded the state of the post
 
@@ -33,10 +35,15 @@ color-coded the state of the post
 
 This is the initial release.
 
+== Upgrade Notice ==
 
-日本語での説明:
+= 1.0 =
+
+== Arbitrary section ==
+
+日本語でのご説明:
 
 このプラグインは、投稿の状態を色分けして表示するプラグインです。
 インストール後プラグインを有効化すると、すぐに使い始められます。
-非公開、状態の投稿があれば赤で。
+非公開、状態の投稿があれば赤くハイライトされます。
 下書き、レビュー待ちの状態の投稿があればオレンジ色でハイライトされます。
