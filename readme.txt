@@ -14,7 +14,7 @@ color-coded the state of the post
 
 == Installation ==
 
-1. Upload the `wp-multibyte-patch` folder to the `/wp-content/plugins/` directory.
+1. Upload the `post-state-color-view` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the Plugins menu in WordPress.
 
 == Frequently Asked Questions ==
